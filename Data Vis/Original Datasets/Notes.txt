@@ -1,0 +1,6 @@
+As for the average (monthly) income column, countries that weren't avaliable in the original dataset (salary_data), I manually imputed values from (https://www.worlddata.info/cost-of-living.php). Countries include: Israel, Ivory Coast, kuwait
+
+I got the cost of living information from: https://wisevoter.com/country-rankings/cost-of-living-by-country/
+
+
+
